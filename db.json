@@ -1,10 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "name": "Lorem.1" },
-    { "id": 2, "title": "Post 2", "name": "Lorem ipsum.2" },
-    { "id": 3, "title": "Post 3", "name": "Lorem ipsum dolor.3" },
-    { "id": 4, "title": "Post 4", "name": "Lorem ipsum dolor sit.4" },
-    { "id": 5, "title": "Post 5", "name": "Lorem ipsum dolor sit amet.5" }
+    { "id": 1, "title": "Post 1", "body": "Lorem.1" },
+    { "id": 2, "title": "Post 2", "body": "Lorem ipsum.2" },
+    { "id": 3, "title": "Post 3", "body": "Lorem ipsum dolor.3" },
+    { "id": 4, "title": "Post 4", "body": "Lorem ipsum dolor sit.4" },
+    { "id": 5, "title": "Post 5", "body": "Lorem ipsum dolor sit amet.5" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
